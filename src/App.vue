@@ -24,8 +24,8 @@ const users = ref([
 </script>
 
 <template>
-  <h1>MAIN APP</h1>
-  
+  <h1>MAIN APP 2</h1>
+
   <button @click="selectedMenu = 'todos'">TODOS</button>
   <button @click="selectedMenu = 'posts'">POSTS</button>
   <button @click="selectedMenu = 'users'">USERS</button>
